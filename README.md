@@ -10,7 +10,7 @@ Update with this configuration:
     "countries-info": {
       "command": "npx",
       "args": [
-        "josuemj-remote-mcp", 
+        "mcp-remote", 
         "https://remote-mcp-server-authless.josuemj456.workers.dev/sse"
       ]
     }
