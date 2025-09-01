@@ -7,11 +7,11 @@ Update with this configuration:
 ```json
 {
   "mcpServers": {
-    "calculator": {
+    "countries-info": {
       "command": "npx",
       "args": [
         "josuemj-remote-mcp", 
-        "https://mcp-remote-josuemj.josuemj456.workers.dev/sse"
+        "https://remote-mcp-server-authless.josuemj456.workers.dev/sse"
       ]
     }
   }
